@@ -74,6 +74,7 @@ h1.title {
   font-style: italic;
   font-family:Georgia, serif;
   text-align: center;
+  text-shadow: 2px 2px 3px orange;
 }
 
 .wrapper {
